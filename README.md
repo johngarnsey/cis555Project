@@ -22,6 +22,10 @@ The following grading criteria will be applied:
 
 Documentation:
 
+Comments have been added appropriately to all code methods and functions to provide clarity. 
+Running the commands in the terminal provide the output as seen below
+
+
 
 Sample code:
 ```
@@ -47,4 +51,17 @@ c9f33d24dd8e472976c0198b0f836b3874b5c6467eb23cc1adf7b687ac586498
         └── f72db255ff769c583833da5417f460ea4af0c588e0c5291626e51726462ffb94
 ```
         The Above is the output of the trees showing that it worked ---
+        
+        
+        
+        
+AUTHOR : John Garnsey
+
+credit to repos: 
+DavidMusk93
+/
+MerkleTree
+vpaliy
+/
+merklelib
 
