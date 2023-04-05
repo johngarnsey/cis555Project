@@ -24,7 +24,7 @@ Documentation:
 
 
 Sample code:
-'''
+```
 >>> from merklelib import MerkleTree, beautify
 >>> import hashlib
 >>> hashfunc = lambda x: hashlib.sha256(str(x).encode()).hexdigest()
@@ -45,6 +45,6 @@ c9f33d24dd8e472976c0198b0f836b3874b5c6467eb23cc1adf7b687ac586498
     └── a72b9a1cc7b60477746a12c0d94281878bf5475d0ae8b474dc614165f99dbe82
         ├── a18ae51c18a80e1d68422384fb497382059c64197267646e9eae863de83ec3ec
         └── f72db255ff769c583833da5417f460ea4af0c588e0c5291626e51726462ffb94
-'''
+```
         The Above is the output of the trees showing that it worked ---
 
